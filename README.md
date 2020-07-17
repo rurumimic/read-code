@@ -13,4 +13,4 @@
 
 | 이름 | 종류 | 언어 | 연습 |
 |---|---|---|---|
-| [requests](https://github.com/psf/requests) | Library | Python | [requests](https://github.com/rurumimic/requests) |
+| [requests](https://github.com/psf/requests) | Library | Python | [rurumimic/requests](https://github.com/rurumimic/requests) |
