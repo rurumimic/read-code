@@ -1,7 +1,5 @@
 # Read code: 코드 읽기
 
-> 사람은 코드를 만들고, 코드는 사람을 만든다.
-
 ## Giant
 
 | 이름 | 종류 | 언어 |
@@ -10,6 +8,7 @@
 | [Node.js](https://github.com/nodejs/node) | Runtime env | Javascript |
 | [Deno](https://github.com/denoland/deno) | Runtime env | Typescript |
 | [React.js](https://github.com/facebook/react) | Library | Javascript |
+| [requests](https://github.com/psf/requests) | Library | Python |
 
 ## Easy
 
