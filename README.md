@@ -14,3 +14,4 @@
 | 이름 | 종류 | 언어 | 연습 |
 |---|---|---|---|
 | [requests](https://github.com/psf/requests) | Library | Python | [rurumimic/requests](https://github.com/rurumimic/requests) |
+| [axios](https://github.com/axios/axios) | Library | Javascript | |
