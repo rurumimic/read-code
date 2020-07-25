@@ -8,6 +8,7 @@
 | [Node.js](https://github.com/nodejs/node) | Runtime env | Javascript | |
 | [Deno](https://github.com/denoland/deno) | Runtime env | Typescript | |
 | [React.js](https://github.com/facebook/react) | Library | Javascript | |
+| [Akka](https://github.com/akka/akka) | Toolkit | Java | |
 
 ## Easy
 
